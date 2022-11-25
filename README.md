@@ -1,4 +1,8 @@
-Observer como o próprio nome já diz é um padrão que observa a ação do objeto antes de realizar 
+
+#Explicação
+ 
+------------------------------------------------------------------------------------------------------
+:zap: Observer como o próprio nome já diz é um padrão que observa a ação do objeto antes de realizar 
 algum evento, tornando o código mais efetivo e funcional, buscando resolver a questão do acoplamento,
 problema muito comum em códigos grandes.
 
@@ -14,4 +18,4 @@ perder tempo, por já ter outra rede o contatando, ou também pelo tempo que lev
 Um método simples de resolver isso seria, quando chega a informação de uma noticia, o freelancer contata as redes interessadas
 invés do contrario, ajudando a fazer uma experiência mais proveitosa. 
 
-E isso seria o observer.
+Essa seria a definição do observer
