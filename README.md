@@ -19,6 +19,8 @@ Um método simples de resolver isso seria, quando chega a informação de uma no
 invés do contrario, ajudando a fazer uma experiência mais proveitosa. 
 
 Essa seria a definição do observer
+
+https://drive.google.com/drive/folders/1-QgM1xbMTTnJezDKXjMESduRujYmXR2R
 -------------------------------------------------------------------------------------------------------
 
 ###### :exclamation: A parte do Gabriel Zaffalon que seria o codigo anterior, ele irá adicionar ao arquivo numa data posterior,
