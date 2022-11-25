@@ -19,3 +19,7 @@ Um método simples de resolver isso seria, quando chega a informação de uma no
 invés do contrario, ajudando a fazer uma experiência mais proveitosa. 
 
 Essa seria a definição do observer
+-------------------------------------------------------------------------------------------------------
+
+###### :exclamation: A parte do Gabriel Zaffalon que seria o codigo anterior, ele irá adicionar ao arquivo numa data posterior,
+###### :exclamation: a gravação do video pela parte dele também não conseguiu ser completa a tempo.
