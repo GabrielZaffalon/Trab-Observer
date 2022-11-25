@@ -1,5 +1,5 @@
 
-#Explicação#
+# Explicação
  
 ------------------------------------------------------------------------------------------------------
 :zap: Observer como o próprio nome já diz é um padrão que observa a ação do objeto antes de realizar 
